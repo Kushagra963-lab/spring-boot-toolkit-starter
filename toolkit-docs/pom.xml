@@ -13,4 +13,8 @@
     <artifactId>toolkit-docs</artifactId>
     <packaging>pom</packaging>
     <name>Toolkit Documentation</name>
+
+    <properties>
+        <maven.deploy.skip>true</maven.deploy.skip>
+    </properties>
 </project>
