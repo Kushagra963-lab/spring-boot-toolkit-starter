@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+toolkit:
+  logging:
+    enabled: true
+    include-headers: false
+    include-body: false
+  audit:
+    enabled: true
+  response:
+    enabled: true
+  timer:
+    enabled: true
